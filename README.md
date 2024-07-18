@@ -84,4 +84,4 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## Notes
 
 Ensure the script is run with appropriate permissions to manage processes and network connections.
-The script currently supports Windows only due to its reliance on tasklist and netstat commands specific to Windows.
+The script currently supports Windows only due to its reliance on tasklist and taskkill commands specific to Windows.
