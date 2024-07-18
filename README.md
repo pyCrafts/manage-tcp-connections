@@ -40,6 +40,7 @@ This script uses the following standard Python libraries:
 - `subprocess` for running shell commands.
 - `time` for managing timeouts.
 - `os` for file and path operations.
+- `logging` for generating log messages.
 
 ## Usage
 
