@@ -1,4 +1,4 @@
-# Program Name
+# Manage TCP Connections
 
 A Python script to monitor and manage TCP connections for a specific program.
 
