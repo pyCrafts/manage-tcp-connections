@@ -7,7 +7,6 @@ A Python script to monitor and manage TCP connections for a specific program.
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Input Data](#input-data)
 - [Libraries Used](#libraries-used)
 - [Usage](#usage)
 - [Configuration](#configuration)
